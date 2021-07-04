@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"Audio_B_?","Audio_B_1,Audio_B_2,Audio_B_3","SynthDiyFootprintLibrary:PJ301BM",""
+"Audio_G_?","Audio_G_1,Audio_G_2,Audio_G_3","SynthDiyFootprintLibrary:PJ301BM",""
+"Audio_R_?","Audio_R_1,Audio_R_2,Audio_R_3","SynthDiyFootprintLibrary:PJ301BM",""
+"AudioJack2","B_CV_IN_1,G_CV_IN_1,R_CV_IN_1,B_CV_IN_2,G_CV_IN_2,R_CV_IN_2,B_CV_IN_3,G_CV_IN_3,R_CV_IN_3","SynthDiyFootprintLibrary:PJ301BM",""
+"EURO_PWR_2x5-eurocad-euro_pwr_2x5-eurocad","J1","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical",""
+"Conn_01x04_Female","J2,J3,J4","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"10K","R1,R2,R3,R10,R11,R12,R13,R14,R15,R22,R23,R24,R25,R26,R27,R34,R35,R36","Resistor_SMD:R_1206_3216Metric",""
+"18K","R37,R38,R39,R40,R41,R42,R43,R44,R45","Resistor_SMD:R_1206_3216Metric",""
+"36K","R4,R5,R6,R16,R17,R18,R28,R29,R30","Resistor_SMD:R_1206_3216Metric",""
+"22K","R7,R8,R9,R19,R20,R21,R31,R32,R33","Resistor_SMD:R_1206_3216Metric",""
+"100K","R_CV_1,G_CV_1,B_CV_1,R_A_RV1,G_A_RV1,B_A_RV1,R_CV_2,G_CV_2,B_CV_2,R_A_RV2,G_A_RV2,B_A_RV2,R_CV_3,G_CV_3,B_CV_3,R_A_RV3,G_A_RV3,B_A_RV3","Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles",""
+"TL084","U1,U2,U3,U4,U5,U6","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",""
