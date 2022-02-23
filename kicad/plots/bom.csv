@@ -1,8 +1,0 @@
-Comment,Designator,Footprint,LCSC
-"AudioJack2","J1,J2,J3","SynthDiyFootprintLibrary:PJ301BM",""
-"EURO_PWR_2x5-eurocad-euro_pwr_2x5-eurocad","J4","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical",""
-"Conn_01x04_Female","J5","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
-"10K","R1,R2,R3","Resistor_SMD:R_1206_3216Metric",""
-"22K","R4,R5,R6","Resistor_SMD:R_1206_3216Metric",""
-"100K","RV1,RV2,RV3","Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",""
-"TL084","U1","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",""
